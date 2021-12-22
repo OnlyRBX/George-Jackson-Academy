@@ -1,0 +1,149 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+.traveling_info
+{
+    
+    border: 1px solid grey;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+    
+}
+
+.traveling_info img
+{
+    
+    width: 100%;
+    
+}
+
+.traveling_info h5,.traveling_info p
+{
+    
+    margin-left: 0px;
+    
+}
+
+.movies_stuff
+{
+    
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 15px;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 6px 22px;
+    
+}
+
+.ratings_Avenger span
+{
+    
+    color:  orange;
+    
+}
+
+.movies_stuff i
+{
+    
+    float: right;
+    
+}
+
+.Info
+{
+    
+    margin-top: 30px;
+    
+}
+
+.Info h4
+{
+    
+    padding: 10px;
+    border-bottom: 1.5px solid grey;
+    
+}
+
+.Info img
+{
+    
+    border-radius: 20px;
+    
+}
+
+.Info p
+{
+    
+    margin-top: 15px;
+    
+}
+
+.traveling_info h5 , .traveling_info p
+{
+    
+    margin-left: 20px;
+    
+}
+
+.header_e
+{
+    line-height: 2;
+}
+
+.library
+{
+    
+    cursor: pointer;
+    
+}
+
+.library hr
+{
+    margin-bottom: 15px;
+    
+}
+
+.modal-content
+{
+    
+    margin-top: 100px;
+    
+}
+
+.modal-img
+{
+    
+    display: inline-block;
+    
+}
+
+.p_modal
+{
+    
+    margin-top: 15px;
+    
+}
+
+.modal-body
+{
+    
+    text-align: center;
+    
+}
